@@ -1,0 +1,17 @@
+[
+  { "id": 1, "name": "Mobility" },
+  { "id": 2, "name": "Circulation" },
+  { "id": 3, "name": "Open Space" },
+  { "id": 4, "name": "Hospitality" },
+  { "id": 5, "name": "Education" },
+  { "id": 6, "name": "Retail" },
+  { "id": 7, "name": "Social" },
+  { "id": 8, "name": "Theatre" },
+  { "id": 9, "name": "Stairs" },
+  { "id": 10, "name": "Elevator" },
+  { "id": 11, "name": "Infrastructure" },
+  { "id": 12, "name": "Religious" },
+  { "id": 13, "name": "Residential" },
+  { "id": 14, "name": "Office" },
+  { "id": 15, "name": "University" }
+]

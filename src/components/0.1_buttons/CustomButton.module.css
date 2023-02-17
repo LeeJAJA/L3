@@ -1,0 +1,213 @@
+.button {
+  border-radius: 16px;
+
+  transition: color 0.7s, background-color, border 0.7s;
+  align-items: center;
+  cursor: pointer;
+}
+
+.largetext {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.smalltext {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+}
+
+.button_0 {
+  color: white;
+  background: transparent;
+  border: 3px solid white;
+}
+
+.button_0:hover {
+  color: black;
+  background: white;
+  /* border: 3px solid black; */
+}
+
+.button_1 {
+  color: var(--color-1);
+  background: transparent;
+  border: 3px solid var(--color-1);
+}
+
+.button_1:hover {
+  color: white;
+  background: var(--color-1);
+  /* border: 3px solid black; */
+}
+
+.button_2 {
+  color: var(--color-2);
+  background: transparent;
+  border: 3px solid var(--color-2);
+}
+
+.button_2:hover {
+  color: white;
+  background: var(--color-2);
+  /* border: 3px solid black; */
+}
+
+.button_3 {
+  color: var(--color-3);
+  background: transparent;
+  border: 3px solid var(--color-3);
+}
+
+.button_3:hover {
+  color: white;
+  background: var(--color-3);
+  /* border: 3px solid black; */
+}
+
+.button_4 {
+  color: var(--color-4);
+  background: transparent;
+  border: 3px solid var(--color-4);
+}
+
+.button_4:hover {
+  color: white;
+  background: var(--color-4);
+  /* border: 3px solid black; */
+}
+
+.button_5 {
+  color: var(--color-5);
+  background: transparent;
+  border: 3px solid var(--color-5);
+}
+
+.button_5:hover {
+  color: white;
+  background: var(--color-5);
+  /* border: 3px solid black; */
+}
+
+.button_6 {
+  color: var(--color-6);
+  background: transparent;
+  border: 3px solid var(--color-6);
+}
+
+.button_6:hover {
+  color: white;
+  background: var(--color-6);
+  /* border: 3px solid black; */
+}
+
+.button_7 {
+  color: var(--color-7);
+  background: transparent;
+  border: 3px solid var(--color-7);
+}
+
+.button_7:hover {
+  color: white;
+  background: var(--color-7);
+  /* border: 3px solid black; */
+}
+
+.button_8 {
+  color: var(--color-8);
+  background: transparent;
+  border: 3px solid var(--color-8);
+}
+
+.button_8:hover {
+  color: white;
+  background: var(--color-8);
+  /* border: 3px solid black; */
+}
+
+.button_9 {
+  color: var(--color-9);
+  background: transparent;
+  border: 3px solid var(--color-9);
+}
+
+.button_9:hover {
+  color: white;
+  background: var(--color-9);
+  /* border: 3px solid black; */
+}
+
+.button_10 {
+  color: var(--color-10);
+  background: transparent;
+  border: 3px solid var(--color-10);
+}
+
+.button_10:hover {
+  color: white;
+  background: var(--color-10);
+  /* border: 3px solid black; */
+}
+
+.button_11 {
+  color: var(--color-11);
+  background: transparent;
+  border: 3px solid var(--color-11);
+}
+
+.button_11:hover {
+  color: white;
+  background: var(--color-11);
+  /* border: 3px solid black; */
+}
+
+.button_12 {
+  color: var(--color-12);
+  background: transparent;
+  border: 3px solid var(--color-12);
+}
+
+.button_12:hover {
+  color: white;
+  background: var(--color-12);
+  /* border: 3px solid black; */
+}
+
+.button_13 {
+  color: var(--color-13);
+  background: transparent;
+  border: 3px solid var(--color-13);
+}
+
+.button_13:hover {
+  color: white;
+  background: var(--color-13);
+  /* border: 3px solid black; */
+}
+
+.button_14 {
+  color: var(--color-14);
+  background: transparent;
+  border: 3px solid var(--color-14);
+}
+
+.button_14:hover {
+  color: white;
+  background: var(--color-14);
+  /* border: 3px solid black; */
+}
+
+.button_15 {
+  color: var(--color-15);
+  background: transparent;
+  border: 3px solid var(--color-15);
+}
+
+.button_15:hover {
+  color: white;
+  background: var(--color-15);
+  /* border: 3px solid black; */
+}
